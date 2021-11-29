@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.furnituredisplay">
+    package="com.example.fda">
+
+    <uses-permission android:name="android.permission.CAMERA"/>
     <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-feature android:name="android.hardware.camera.ar" android:required="true"/>
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -10,13 +14,16 @@
         android:supportsRtl="true"
         android:usesCleartextTraffic="true"
         android:theme="@style/Theme.FurnitureDisplay">
+<!--        android:theme="@style/AppTheme">-->
+        <meta-data android:name="com.google.ar.core" android:value="required" />
+
         <activity
-            android:name=".SignUp"
+            android:name="com.example.fda.SignUp"
             android:exported="true"
             android:theme="@style/Theme.Design.Light.NoActionBar">
         </activity>
         <activity
-            android:name=".Login"
+            android:name="com.example.fda.Login"
             android:exported="true"
             android:theme="@style/Theme.Design.Light.NoActionBar">
             <intent-filter>
@@ -25,12 +32,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".MainActivity"
-            android:exported="true"
-            android:theme="@style/Theme.Design.Light.NoActionBar">
 
+
+        <activity android:name="com.example.fda.MainActivity">
+<!--            <intent-filter>-->
+<!--                <action android:name="android.intent.action.MAIN" />-->
+
+<!--                <category android:name="android.intent.category.LAUNCHER" />-->
+<!--            </intent-filter>-->
         </activity>
+
     </application>
 
 </manifest>
