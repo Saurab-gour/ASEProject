@@ -55,7 +55,7 @@ Table Entries after signup will be as below:
 In the login.java and Register.java , we need to update the IP address which has the apache server running.
 
 <a id="Run"></a>
-## Run or Demo of the movile application
+## Run or Demo of the mobile application
 
 Below is the initial page of the application:
 
