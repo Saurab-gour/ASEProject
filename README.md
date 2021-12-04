@@ -53,12 +53,38 @@ Table Entries after signup will be as below:
 ![image](https://user-images.githubusercontent.com/93036462/144717826-36caa6ff-c71b-4de8-94ab-cb763268d18a.png)
  
 <a id="Run"></a>
-## Run
+## Run or Demo of the movile application
 
-Below screenshots are from the demo run:
+Below is the initial page of the application:
+![image](https://user-images.githubusercontent.com/93036462/144719037-d7664d02-91fe-4bb3-afbf-e4087b0b5854.png)
+
+We can enter your credentials and then click on login button if you are registered user. Otherwise you can click on signup button to register.
+![image](https://user-images.githubusercontent.com/93036462/144719069-9a7edc4d-2842-472b-81ab-ce5c5e823932.png)
+
+We can fill up all the details on the registration page and click on Sign up button
+![image](https://user-images.githubusercontent.com/93036462/144719110-15ed6370-a791-42a1-933f-375b20995cd5.png)
+
+Application will show the below message
+![image](https://user-images.githubusercontent.com/93036462/144719121-84de0ad9-9f42-43e3-bcef-6b14e2c85f4e.png)
+
+Login with the credentials
+![image](https://user-images.githubusercontent.com/93036462/144719142-e7f0dd2f-43bd-49c2-b385-88d02ff37f1a.png)
+
+Now AR feature can be used , a furniture item can be selected and it would be placed in the environment.
+![image](https://user-images.githubusercontent.com/93036462/144719178-c87df15f-b3ca-4f8d-834d-c42cd3521885.png)
+
 
 <a id="contact"></a>
 ## Contact
+
+**Saurab Gour:** gours@uwindsor.ca
+**Keetha Shivasai Tej:** Keetha@uwindsor.ca
+**Priyanka Mogha:**	mogha@uwindsor.ca
+**Pallav:**	pallav@uwindsor.ca
+**Mohammed Arshil Riaz Syed:** syed63@uwindsor.ca
+**Sandhadi Abhinav Reddy:** sandhad@uwindsor.ca
+**Pranaya Challa:** challa2@uwindsor.ca
+**Atluri Sreeja:** atluri1@uwindsor.ca
 
 
 
