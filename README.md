@@ -51,7 +51,9 @@ In MySQL Admin, create a table “users” with below fields and settings:
 
 Table Entries after signup will be as below:
 ![image](https://user-images.githubusercontent.com/93036462/144717826-36caa6ff-c71b-4de8-94ab-cb763268d18a.png)
- 
+
+In the login.java and Register.java , we need to update the IP address which has the apache server running.
+
 <a id="Run"></a>
 ## Run or Demo of the movile application
 
