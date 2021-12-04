@@ -18,7 +18,7 @@ Furniture Display application is a mobile application where customer will be abl
 <a id="Technologies-and-Frameworks-Used"></a>
 ## Technologies and Frameworks Used
 * JAVA
-* MYSQL
+* MySQL
 * PHP
 * Apache
 * XML for layout designs
